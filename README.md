@@ -39,5 +39,3 @@ Active Hosts: Distinct count of host_id to identify unique market players.
 Performance Scoring: A composite metric balancing Price, Reviews, and Availability.
 📸 [Dashboard Preview](Airbnb Dashboard.PNG)(Airbnb Dashboard 2.PNG)
 
-📸 Dashboard Preview
-(ملحوظة: هنا هتحطي الروابط بتاعة الصور اللي رفعتيها)
